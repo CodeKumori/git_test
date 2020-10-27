@@ -1,0 +1,1 @@
+This is CodeKumori's first git project!
